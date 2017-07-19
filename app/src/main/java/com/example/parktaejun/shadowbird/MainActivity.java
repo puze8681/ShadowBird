@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     WebView webView;
     WebSettings webSettings;
-    String Url = "http://169.56.126.158";
+    String Url = "http://169.56.126.158:7727/game";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
